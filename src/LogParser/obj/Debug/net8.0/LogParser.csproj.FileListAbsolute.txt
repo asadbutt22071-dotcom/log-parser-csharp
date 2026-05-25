@@ -26,3 +26,4 @@
 /Users/asadullah/Mantel-test/log-parser-csharp/src/LogParser/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
 /Users/asadullah/Mantel-test/log-parser-csharp/src/LogParser/obj/Debug/net8.0/LogParser.csproj.AssemblyReference.cache
 /Users/asadullah/Mantel-test/log-parser-csharp/src/LogParser/obj/Debug/net8.0/LogParser.csproj.Up2Date
+/Users/asadullah/Mantel-test/log-parser-csharp/src/LogParser/obj/Debug/net8.0/LogParser.sourcelink.json

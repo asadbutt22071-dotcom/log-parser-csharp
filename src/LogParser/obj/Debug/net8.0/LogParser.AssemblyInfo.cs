@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4aecf93bd4ddcdf76c4187e49eb6be228b72f2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
